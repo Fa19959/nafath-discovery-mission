@@ -1,6 +1,7 @@
 Version: NAFATH-V3
 Track: <one of: Software | AI | Mobile | Networking | Cybersecurity | Data>
 Data
+
 ## Overview
 Mission NAFATH-V3 focuses on establishing a trustworthy and secure AI assistant for public service delivery. The primary goal is to ensure data privacy, accurate responses using Retrieval-Augmented Generation (RAG), robust security compliance, and seamless cross-platform functionality to provide reliable and transparent government services to citizens.
 
@@ -34,6 +35,11 @@ Anonymization vs. Pseudonymization: Anonymization permanently removes or alters 
 ## Misconception in My Track
 Mission NAFATH-V3 focuses on establishing a trustworthy and secure AI assistant for public service delivery. The primary goal is to ensure data privacy, accurate responses using Retrieval-Augmented Generation (RAG), robust security compliance, and seamless cross-platform functionality to provide reliable and transparent government services to citizens.
 
-
 ## Open Question
 How can we strike the optimal balance between strict data anonymization and maintaining high response accuracy for complex user queries in RAG-based systems?
+
+References
+-Primary Source (Software, AI, Mobile, and Networking):
+ GitHub. The six research questions (Part 1: Write your brief). Retrieved from ⁠github.com⁠.  
+-Secondary Source (Cybersecurity and Data):
+ GitHub. The six research questions (Continuation section). Retrieved from ⁠github.com⁠.
