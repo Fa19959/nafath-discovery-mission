@@ -1,4 +1,5 @@
 Version: NAFATH-V3
+Track: <one of: Software | AI | Mobile | Networking | Cybersecurity | Data>
 Track: Data
 
 ## Overview
